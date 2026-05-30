@@ -14,4 +14,3 @@ eISBN: 978-0-262-33324-5
 
 10 9 8 7 6 5 4 3 2 1
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

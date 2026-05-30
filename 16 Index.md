@@ -785,4 +785,3 @@
 
 * *Yamove!* (game), 94–96
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

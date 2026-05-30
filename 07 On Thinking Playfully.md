@@ -16,4 +16,3 @@ Geoffrey Long
 
 William Uricchio
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

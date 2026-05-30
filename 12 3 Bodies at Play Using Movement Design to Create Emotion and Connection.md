@@ -258,4 +258,3 @@ To be sure, it’s also possible that these developments could lead in a differe
 [38.](#c3-note-38a) Jason Johnson, “Are Costumes the New Game Controllers?,” *Kill Screen*, July 12, 2013, <http://killscreendaily.com/articles/are-costumes-new-game-controllers/> (accessed August 26, 2015)[;](http://;)Katherine Isbister and Kaho Abe, “Costumes as Game Controllers: An Exploration of Wearables to Suit Social Play,” paper presented at the 9th International Conference on Tangible, Embedded and Embodied Interaction, Stanford, CA (2015).
 [39.](#c3-note-39a) <https://www.youtube.com/watch?v=T3zGRmVES0w> (accessed Aug­ust 26, 2015).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

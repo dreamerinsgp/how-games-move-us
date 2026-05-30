@@ -70,4 +70,3 @@ Wright, Will, *The Sims 3* (Electronic Arts, 2009)
 
 Wright, Will, *The Sims* (Electronic Arts, 2000)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

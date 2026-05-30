@@ -12,4 +12,3 @@ Cambridge, Massachusetts
 
 London, England
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

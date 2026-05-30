@@ -311,4 +311,3 @@ This chapter focused on the design of emotional experiences for solo players. Th
 [42.](#c1-note-42a) shushbob, *Sims 3—Gameplay What Happens If You Fight*, YouTube video, 3:11, June 6, 2009, <http://www.youtube.com/watch?v=1yexm4JYhgY> (accessed August 24, 2015).
 [43.](#c1-note-43a) Robin Burkinshaw, “Hello!,” *Alice and Kev: The Story of Being Homeless in The Sims 3*, 2009, <http://aliceandkev.wordpress.com> (accessed August 24, 2015).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

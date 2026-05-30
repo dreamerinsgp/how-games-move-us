@@ -265,4 +265,3 @@ I would argue that no other medium offers this kind of transformative power at t
 [31.](#c2-note-31a) Keogh, *A Sackboy Says No Words*.
 [32.](#c2-note-32a) Celia Pearce and Artemesia, *Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds* (Cambridge, MA: MIT Press, 2009), 216–217.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

@@ -169,4 +169,3 @@ In my view, these tools offer an antidote to some of our concerns about the ever
 [31.](#c4-note-31a) Mihaly Csikzentmihalyi, “Play and Intrinsic Rewards,” *Journal of Humanistic Psychology* 15, no. 3 (1975): 41.
 [32.](#c4-note-32a) Huizinga, *Homo Ludens*.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

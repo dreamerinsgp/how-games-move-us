@@ -123,4 +123,3 @@
 1. [Cover](cover.xhtml)
 2. [Table of Contents](toc.xhtml)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

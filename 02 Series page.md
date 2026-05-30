@@ -14,4 +14,3 @@ Jesper Juul, Geoffrey Long, and William Uricchio, editors
 
 *How Games Move Us: Emotion by Design*, Katherine Isbister, 2016
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

@@ -17,4 +17,3 @@ I want to close with an excerpt from one more game review (of *Journey*):
 [1.](#c5-note-1a) Leigh Alexander, “Grunge, Grrrls and Video Games: Turning the Dial for a More Meaningful Culture,” *Gamasutra*, August 16, 2013, <http://www.gamasutra.com/view/feature/198376/grunge_grrrls_and_video_games_.php> (accessed August 27, 2015).
 [2.](#c5-note-2a) Kirk Hamilton, “*Journey*: The Kotaku Review,” Reviews, *Kotaku*, March 1, 2012, <http://kotaku.com/5889425/journey-the-kotaku-review> (accessed August 27, 2015).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

@@ -14,4 +14,3 @@ Thanks to the series editors and those at the MIT Press who shepherded this book
 
 Finally, on the home front, a shout-out to my husband, Rene Netter, who is always game to listen to an idea that trails me home from work, and to my daughter Nona Lily Netter, who keeps my life playful.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
