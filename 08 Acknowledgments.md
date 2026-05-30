@@ -1,0 +1,17 @@
+# Acknowledgments
+
+# Acknowledgments
+
+The writing of this humble tome took a surprising amount of time and effort. Thanks to the Humboldt Foundation, and Marc Alexa of Technische Universität Berlin, for supporting me through multiple summers of writing. Thanks to the CASBS Center at Stanford University for supporting me during the sabbatical year that brought the writing all the way to completion (and to the Annenberg Fund for fellowship support). While at Stanford, I benefited from presenting and discussing these ideas with students of Michael Bernstein and James Landay in the HCI program, with attendees of the Games and Interactive Media lecture series put together by Henry Lowood, Ingmar Riedel-Kruse, Sebastian Alvarado, Paul Zenke, Chris Bennett, and colleagues; with attendees of the Media-X annual conference hosted by Martha Russell; with Karin Forssell and her students in the Learning, Design, and Technology master’s program; and with the fabulous Wendy Ju. There were of course lively conversations with fellow CASBS fellows, who gave me much sage advice, and a fun title brainstorm with Scott Bukatman.
+
+Thanks to New York University for providing me a scholarly home base over these years. The Game Innovation Lab was a wonderful incubator for research on games and emotion. Terrific colleagues from the Game Engineering group in the Computer Science Department and from the NYU Game Center influenced how I think about games and what they do for us. Discussing games as a cultural form with Frank Lantz, Eric Zimmerman, Jesper Juul, and other early Game Center community members particularly shaped my own thinking about the framing of this book.
+
+Much appreciation to those who read over drafts and discussed the ideas herein with me: Kaho Abe, Gabriella Etmektsoglou, Clara Fernandez-Vara, Michael Mateas, Andy Nealen, Syed Salahuddin, Fred Turner, Sharra Vostral; and the graduate students who I have had the privilege to work with on these themes over the last few years—Xiaofeng Chen, Jonathan Frye, Chelsea Hash, Michael Karlesky, Shoshana Kessock, Suzanne Kirkpatrick, Elena Márquez Segura, Edward Melcer, Shilpan Patel, Toni Pizza, Rahul Rao, Holly Robbins, Ulf Schwekendiek, Raybit Tang, and Kong Tsao (and many more who I inadvertently omitted, I’m sure—please forgive me!). And thanks to Chrystanyaa Brown and Chris DiMauro for keeping the lab going so we could all build great research games there.
+
+Thanks to those in the game development community who have explored the intersection of game design and emotion with their games, writings, and public presentations. In particular, the work of Jenova Chen and Nicole Lazzaro has been influential to me, and their efforts are cited in these pages.
+
+Thanks to the series editors and those at the MIT Press who shepherded this book along, in particular Jesper Juul, my erstwhile colleague at NYU and my patient editor, and Doug Sery, who has been a tireless champion of thoughtful writing on games. Thanks to Christine Larson for her adept amendment of my turgid academic tone, and to Luke Stark for tidying references and gathering image permissions. Thanks to Kristina Höök for hosting me and egging me on while I made and uploaded the final changes to the manuscript.
+
+Finally, on the home front, a shout-out to my husband, Rene Netter, who is always game to listen to an idea that trails me home from work, and to my daughter Nona Lily Netter, who keeps my life playful.
+
+[*OceanofPDF.com*](https://oceanofpdf.com)

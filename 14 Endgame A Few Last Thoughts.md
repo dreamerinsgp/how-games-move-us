@@ -1,0 +1,20 @@
+# Endgame: A Few Last Thoughts
+
+# Endgame: A Few Last Thoughts
+
+I began this book with the claim that games have the capacity to take us into different emotional territory than any other medium. In the intervening four chapters, you’ve gotten a detailed look at specific design techniques in games that evoke strong emotions for individual players and also among people who play together. I’ve shown how astute design decisions, such as the amount of customization made possible in avatars and how they interact within a game world, can end up powerfully affecting how people connect and relate in the context of that game. We’ve seen how game designers make use of social signals and signifiers we know in “real life”—gift giving, going through risky situations together, physical closeness and contact, among others—to create strong feelings and connections between players as they engage the challenges of a game. If you were not already convinced, perhaps by now you will allow that games are an innovative medium that has a rightful place alongside the other media we value for their ability to reflect our own human experience back to us and for their capacity to take us into new emotional territory.
+
+I used various analogies along the way—team sports, fishing, playing superheroes, taking care of a neighbor’s pet—to help readers who don’t play many games feel their way into this amazing aesthetic form. That’s also one of the reasons why I drew most of my game examples from outside the mainstream of weapons and orcs and spaceships. Of course those games, too, carry great emotional power, and I mean no disrespect to the many game genres not covered here. However, one of my aims as a game researcher is to grow the emotional palette of games as we know them, and so I chose to pull examples from a wide territory within what is now known as gaming. Games are capable of so much, and there is room for a far broader range of thriving genres and forms than we have today. I hope the developers who read the book will be inspired to tinker and continue to evolve what they already do so well, to “change the dial” for the fun and inspiration of it, as Leigh Alexander puts it.[1](#c5-note-1)
+
+Thank you for taking the time to read this small volume. By now you should have a more nuanced and detailed appreciation for how games move players emotionally that can be useful to you in understanding your own experience with games, and in thinking through what they may mean for you, and for those around you. Please use it as fodder for informed, nuanced conversations with other people who may or may not agree with your views about games, toward mutual enjoyment and illumination.
+
+I want to close with an excerpt from one more game review (of *Journey*):
+
+> In a later part of the game, I found myself both exhausted and tested. What must the wanderer be going through right now, I wondered? Such pain, such hardship. At that moment, I thought back to the joyful beauty I had witnessed merely an hour ago—leaping through the sand, warm sun on my shoulders, the energy and freedom of youth urging me to jump higher, higher! And now here I was, head down, teeth gritted, pushing through the cold, bitter trials of adulthood. Those lost moments of grace felt fleeting even as they were happening, and they felt all the more fleeting in retrospect. But there was no way to get them back; nothing for it but to push onward. And so I did, and so you will too. And round and round we’ll go.[2](#c5-note-2)
+
+## Notes
+
+[1.](#c5-note-1a) Leigh Alexander, “Grunge, Grrrls and Video Games: Turning the Dial for a More Meaningful Culture,” *Gamasutra*, August 16, 2013, <http://www.gamasutra.com/view/feature/198376/grunge_grrrls_and_video_games_.php> (accessed August 27, 2015).
+[2.](#c5-note-2a) Kirk Hamilton, “*Journey*: The Kotaku Review,” Reviews, *Kotaku*, March 1, 2012, <http://kotaku.com/5889425/journey-the-kotaku-review> (accessed August 27, 2015).
+
+[*OceanofPDF.com*](https://oceanofpdf.com)
